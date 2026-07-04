@@ -1,0 +1,10 @@
+{
+  "discplugin.red_sun": {
+    "sounds": ["discplugin:red_sun"],
+    "subtitle": "Red Sun in the Sky"
+  },
+  "discplugin.internationale": {
+    "sounds": ["discplugin:internationale"],
+    "subtitle": "The Internationale"
+  }
+}

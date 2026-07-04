@@ -1,0 +1,18 @@
+{
+  "music_disc.pigstep": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.otherside": {
+    "sounds": [
+      {
+        "name": "music/disc/otherside",
+        "stream": true
+      }
+    ]
+  }
+}
