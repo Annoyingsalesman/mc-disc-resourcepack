@@ -1,18 +1,6 @@
 {
-  "music_disc.pigstep": {
-    "sounds": [
-      {
-        "name": "records/pigstep",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.otherside": {
-    "sounds": [
-      {
-        "name": "music/disc/otherside",
-        "stream": true
-      }
-    ]
-  }
+  "music_disc.pigstep": {"sounds": [{"name": "records/pigstep", "stream": true}]},
+  "music_disc.otherside": {"sounds": [{"name": "music/disc/otherside", "stream": true}]},
+  "music_disc.strad": {"sounds": [{"name": "records/strad", "stream": true}]},
+  "music_disc.far": {"sounds": [{"name": "music/disc/far", "stream": true}]}
 }
